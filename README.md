@@ -61,7 +61,7 @@ GradientBoostingClassifier por motivos de estudos pessoais, mas futuramente have
 
 ## 6. Conclusão
 
-![pie_chart](https://github.com/VladeMelo/over-0.5-ht/assets/63476377/275c0dbd-1b59-4dcd-993f-133b58c008a8)
+![pie_chart](https://github.com/VladeMelo/over-0.5-ht/assets/63476377/f44c2ab2-0810-4cea-be2a-4ad1914c25dc)
 
 - Levando em consideração a distribuição dos valores da feature Over 0.5 HT, podemos dizer que o modelo teve uma boa performance!
 
