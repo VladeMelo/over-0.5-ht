@@ -1,4 +1,4 @@
-<dic=v style="text-align: center;"># Previsão de Over 0.5 HT<div>
+<div style="text-align: center;"># Previsão de Over 0.5 HT<div>
 
 ![lars-bo-nielsen-Wu7hYE7Lzzs-unsplash](https://github.com/VladeMelo/over-0.5-ht/assets/63476377/417fecce-edc6-499c-ae67-87dd35e4c878)
 
