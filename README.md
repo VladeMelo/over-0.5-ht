@@ -1,6 +1,6 @@
-# Previsão de Over 0.5 HT
+<dic=v style="text-align: center;"># Previsão de Over 0.5 HT<div>
 
-![alvaro-mendoza-6dRiUBjRvsM-unsplash](https://github.com/VladeMelo/over-0.5-ht/assets/63476377/95893d8f-6832-4669-93ab-7b920ec8d38a)
+![lars-bo-nielsen-Wu7hYE7Lzzs-unsplash](https://github.com/VladeMelo/over-0.5-ht/assets/63476377/417fecce-edc6-499c-ae67-87dd35e4c878)
 
 ## 1. Objetivo
 
