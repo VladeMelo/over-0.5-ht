@@ -1,3 +1,7 @@
+# Previsão de Over 0.5 HT
+
+![alvaro-mendoza-6dRiUBjRvsM-unsplash](https://github.com/VladeMelo/over-0.5-ht/assets/63476377/95893d8f-6832-4669-93ab-7b920ec8d38a)
+
 ## 1. Objetivo
 
 Tentar prever se vai sair pelo menos um gol ainda no 1° tempo de uma partida que está 0 x 0 aos 18 minutos de jogo.
